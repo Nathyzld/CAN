@@ -2,3 +2,15 @@ body{
 background-color: darkred;
 text-align: center;
 }
+h1 {
+    font-style: italic;
+    color:aliceblue
+    font-size: larger;
+}
+h2 {
+    color:aliceblue
+    font-weight:200;
+}
+.pizza {
+    color:black
+}
