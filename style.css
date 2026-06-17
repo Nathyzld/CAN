@@ -2,18 +2,22 @@ body{
 background-color: darkred;
 text-align: center;
 }
+
 h1 {
     font-style: italic;
-    color:darkblue
+    color:darkblue;
     font-size: larger;
 }
+
 h2 {
-    color:darkblue
+    color:darkblue;
     font-weight:200;
 }
+
 .pizza {
-    color:gainsboro
+    color:gainsboro;
 }
+
 .lista {
     text-align: left;
-    color:black
+    color:black; }
