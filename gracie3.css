@@ -1,0 +1,35 @@
+body{
+background-color: darkred;
+text-align: center;
+}
+h1 {
+    font-style: italic;
+    color:darkblue;
+    font-size: larger;
+}
+
+h2 {
+    font-style: italic;
+    color:black;
+    font-weight:200;
+}
+h3 {
+font-style: italic;
+color: black;
+}
+
+.oi {
+    tcolor:gainsboro;
+}
+
+.legado {
+    width: 20%;
+}
+
+.brasileiro {
+    width: 20%;
+}
+
+.mundo {
+    width: 20%;
+}
